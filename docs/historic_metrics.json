@@ -5,7 +5,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -30,11 +29,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -45,16 +39,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -62,15 +54,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -106,43 +96,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -167,43 +151,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -228,43 +206,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -289,43 +261,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -350,43 +316,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -412,15 +372,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -434,7 +392,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -459,11 +416,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -474,16 +426,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -491,15 +441,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -535,43 +483,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -596,43 +538,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -657,43 +593,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -718,43 +648,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -779,43 +703,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -841,15 +759,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -863,7 +779,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -888,11 +803,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -903,16 +813,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -920,15 +828,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -964,43 +870,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1025,43 +925,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1086,43 +980,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1147,43 +1035,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1208,43 +1090,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1270,15 +1146,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -1292,7 +1166,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -1317,11 +1190,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -1332,16 +1200,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -1349,15 +1215,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -1393,43 +1257,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1454,43 +1312,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1515,43 +1367,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1576,43 +1422,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1637,43 +1477,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1699,15 +1533,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -1721,7 +1553,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -1746,11 +1577,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -1761,16 +1587,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -1778,15 +1602,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -1822,43 +1644,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1883,43 +1699,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -1944,43 +1754,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2005,43 +1809,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2066,43 +1864,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2128,15 +1920,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -2150,7 +1940,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -2175,11 +1964,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -2190,16 +1974,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -2207,15 +1989,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -2251,43 +2031,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2312,43 +2086,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2373,43 +2141,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2434,43 +2196,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2495,43 +2251,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2557,15 +2307,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -2579,7 +2327,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -2604,11 +2351,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -2619,16 +2361,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -2636,15 +2376,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -2680,43 +2418,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2741,43 +2473,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2802,43 +2528,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2863,43 +2583,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2924,43 +2638,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -2986,15 +2694,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -3008,7 +2714,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -3033,11 +2738,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -3048,16 +2748,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -3065,15 +2763,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -3109,43 +2805,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3170,43 +2860,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3231,43 +2915,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3292,43 +2970,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3353,43 +3025,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3415,15 +3081,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
@@ -3437,7 +3101,6 @@
             "marcelmmb": 0,
             "nilrofUPC": 0,
             "pauj-hub": 25,
-            "professor-asw": 0,
             "anonymous": 8,
             "total": 36
         },
@@ -3462,11 +3125,6 @@
                 "deletions": 1031,
                 "modified": 6024
             },
-            "professor-asw": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
-            },
             "total": {
                 "additions": 5029,
                 "deletions": 1032,
@@ -3477,16 +3135,14 @@
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "commit_merges": 3,
         "longest_commit_streak_per_user": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 0,
-            "pauj-hub": 0,
-            "professor-asw": 0
+            "pauj-hub": 0
         },
         "issues": {
             "assigned": {
@@ -3494,15 +3150,13 @@
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
                 "pauj-hub": 0,
-                "professor-asw": 0,
                 "non_assigned": 8
             },
             "closed": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 0,
-                "professor-asw": 0
+                "pauj-hub": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
@@ -3538,43 +3192,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3599,43 +3247,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3660,43 +3302,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3721,43 +3357,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 0
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3782,43 +3412,37 @@
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
                         "pauj-hub": 0,
-                        "professor-asw": 0,
                         "non_assigned": 5
                     },
                     "backlog_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "ready_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_progress_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "in_review_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "done_per_member": {
                         "daniespejo": 0,
                         "marcelmmb": 0,
                         "nilrofUPC": 0,
-                        "pauj-hub": 0,
-                        "professor-asw": 0
+                        "pauj-hub": 0
                     },
                     "backlog": 0,
                     "ready": 0,
@@ -3844,15 +3468,13 @@
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged_per_member": {
                 "daniespejo": 0,
                 "marcelmmb": 0,
                 "nilrofUPC": 0,
-                "pauj-hub": 1,
-                "professor-asw": 0
+                "pauj-hub": 1
             },
             "merged": 1,
             "not_merged_by_author": 0,
