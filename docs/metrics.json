@@ -61,14 +61,14 @@
             "daniespejo": 1,
             "marcelmmb": 0,
             "nilrofUPC": 5,
-            "pauj-hub": 2,
-            "non_assigned": 11
+            "pauj-hub": 3,
+            "non_assigned": 10
         },
         "closed": {
             "daniespejo": 0,
             "marcelmmb": 0,
             "nilrofUPC": 2,
-            "pauj-hub": 1
+            "pauj-hub": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
