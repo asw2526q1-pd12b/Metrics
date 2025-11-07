@@ -12,8 +12,8 @@
         "marcelmmb": 0,
         "nilrofUPC": 0,
         "pauj-hub": 26,
-        "anonymous": 15,
-        "total": 44
+        "anonymous": 17,
+        "total": 46
     },
     "modified_lines": {
         "daniespejo": {
@@ -60,20 +60,20 @@
         "assigned": {
             "daniespejo": 1,
             "marcelmmb": 0,
-            "nilrofUPC": 2,
+            "nilrofUPC": 3,
             "pauj-hub": 0,
             "non_assigned": 12
         },
         "closed": {
             "daniespejo": 0,
             "marcelmmb": 0,
-            "nilrofUPC": 0,
+            "nilrofUPC": 1,
             "pauj-hub": 0
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 9,
-        "total": 15
+        "total_closed": 10,
+        "total": 16
     },
     "project": {
         "has_iterations": true,
@@ -141,7 +141,7 @@
                 "in_progress": 0,
                 "in_review": 2,
                 "done": 3,
-                "total_issues": 8,
+                "total_issues": 9,
                 "total_issues_with_type": 8,
                 "total_features": 3,
                 "total_tasks": 5,
@@ -151,7 +151,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 1,
                 "total_features_done": 1,
-                "total": 8
+                "total": 9
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -361,7 +361,7 @@
                 "in_progress": 0,
                 "in_review": 2,
                 "done": 7,
-                "total_issues": 14,
+                "total_issues": 15,
                 "total_issues_with_type": 12,
                 "total_features": 3,
                 "total_tasks": 9,
@@ -371,7 +371,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 1,
                 "total_features_done": 1,
-                "total": 14
+                "total": 15
             }
         }
     },
