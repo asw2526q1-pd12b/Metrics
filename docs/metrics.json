@@ -11,9 +11,9 @@
         "daniespejo": 3,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 25,
+        "pauj-hub": 26,
         "anonymous": 15,
-        "total": 43
+        "total": 44
     },
     "modified_lines": {
         "daniespejo": {
@@ -32,35 +32,35 @@
             "modified": 0
         },
         "pauj-hub": {
-            "additions": 4993,
-            "deletions": 1031,
-            "modified": 6024
+            "additions": 5108,
+            "deletions": 1061,
+            "modified": 6169
         },
         "total": {
-            "additions": 5029,
-            "deletions": 1032,
-            "modified": 6061
+            "additions": 5144,
+            "deletions": 1062,
+            "modified": 6206
         }
     },
     "commit_streak": {
         "daniespejo": 0,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 0
+        "pauj-hub": 1
     },
     "commit_merges": 4,
     "longest_commit_streak_per_user": {
         "daniespejo": 0,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 0,
+        "pauj-hub": 1,
         "professor-asw": 0
     },
     "issues": {
         "assigned": {
             "daniespejo": 1,
             "marcelmmb": 0,
-            "nilrofUPC": 1,
+            "nilrofUPC": 2,
             "pauj-hub": 0,
             "non_assigned": 12
         },
@@ -73,7 +73,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 9,
-        "total": 14
+        "total": 15
     },
     "project": {
         "has_iterations": true,
@@ -306,7 +306,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 4,
-                "total_issues": 5,
+                "total_issues": 6,
                 "total_issues_with_type": 4,
                 "total_features": 0,
                 "total_tasks": 4,
@@ -316,7 +316,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 5
+                "total": 6
             },
             "total": {
                 "assigned_per_member": {
@@ -361,7 +361,7 @@
                 "in_progress": 0,
                 "in_review": 2,
                 "done": 7,
-                "total_issues": 13,
+                "total_issues": 14,
                 "total_issues_with_type": 12,
                 "total_features": 3,
                 "total_tasks": 9,
@@ -371,7 +371,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 1,
                 "total_features_done": 1,
-                "total": 13
+                "total": 14
             }
         }
     },
