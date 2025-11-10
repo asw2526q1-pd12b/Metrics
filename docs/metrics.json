@@ -11,9 +11,9 @@
         "daniespejo": 3,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 27,
-        "anonymous": 33,
-        "total": 63
+        "pauj-hub": 28,
+        "anonymous": 44,
+        "total": 75
     },
     "modified_lines": {
         "daniespejo": {
@@ -32,23 +32,23 @@
             "modified": 0
         },
         "pauj-hub": {
-            "additions": 5813,
-            "deletions": 1062,
-            "modified": 6875
+            "additions": 15964,
+            "deletions": 1072,
+            "modified": 17036
         },
         "total": {
-            "additions": 5849,
-            "deletions": 1063,
-            "modified": 6912
+            "additions": 16000,
+            "deletions": 1073,
+            "modified": 17073
         }
     },
     "commit_streak": {
         "daniespejo": 0,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 2
+        "pauj-hub": 1
     },
-    "commit_merges": 4,
+    "commit_merges": 5,
     "longest_commit_streak_per_user": {
         "daniespejo": 0,
         "marcelmmb": 0,
@@ -67,12 +67,12 @@
         "closed": {
             "daniespejo": 0,
             "marcelmmb": 0,
-            "nilrofUPC": 2,
+            "nilrofUPC": 3,
             "pauj-hub": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 12,
+        "total_closed": 13,
         "total": 20
     },
     "project": {
@@ -148,9 +148,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
-                "total_features_in_progress": 2,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 1,
-                "total_features_done": 2,
+                "total_features_done": 4,
                 "total": 19
             },
             "Iteration 2": {
@@ -368,9 +368,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
-                "total_features_in_progress": 2,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 1,
-                "total_features_done": 2,
+                "total_features_done": 4,
                 "total": 19
             }
         }
