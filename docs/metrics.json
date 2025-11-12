@@ -59,16 +59,16 @@
     "issues": {
         "assigned": {
             "daniespejo": 8,
-            "marcelmmb": 17,
+            "marcelmmb": 16,
             "nilrofUPC": 7,
-            "pauj-hub": 2,
+            "pauj-hub": 3,
             "non_assigned": 0
         },
         "closed": {
             "daniespejo": 8,
-            "marcelmmb": 16,
+            "marcelmmb": 15,
             "nilrofUPC": 5,
-            "pauj-hub": 1
+            "pauj-hub": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
@@ -101,9 +101,9 @@
             "Iteration 1": {
                 "assigned_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 14,
+                    "marcelmmb": 13,
                     "nilrofUPC": 4,
-                    "pauj-hub": 0,
+                    "pauj-hub": 1,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
@@ -132,9 +132,9 @@
                 },
                 "done_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 13,
+                    "marcelmmb": 12,
                     "nilrofUPC": 4,
-                    "pauj-hub": 0
+                    "pauj-hub": 1
                 },
                 "backlog": 0,
                 "ready": 0,
@@ -321,9 +321,9 @@
             "total": {
                 "assigned_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 14,
+                    "marcelmmb": 13,
                     "nilrofUPC": 4,
-                    "pauj-hub": 0,
+                    "pauj-hub": 1,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
@@ -352,9 +352,9 @@
                 },
                 "done_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 13,
+                    "marcelmmb": 12,
                     "nilrofUPC": 4,
-                    "pauj-hub": 0
+                    "pauj-hub": 1
                 },
                 "backlog": 0,
                 "ready": 0,
