@@ -59,16 +59,16 @@
     "issues": {
         "assigned": {
             "daniespejo": 7,
-            "marcelmmb": 4,
+            "marcelmmb": 5,
             "nilrofUPC": 6,
-            "pauj-hub": 3,
+            "pauj-hub": 2,
             "non_assigned": 0
         },
         "closed": {
             "daniespejo": 6,
-            "marcelmmb": 4,
+            "marcelmmb": 5,
             "nilrofUPC": 3,
-            "pauj-hub": 2
+            "pauj-hub": 1
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
