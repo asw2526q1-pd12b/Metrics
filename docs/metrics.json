@@ -59,14 +59,14 @@
     "issues": {
         "assigned": {
             "daniespejo": 3,
-            "marcelmmb": 0,
+            "marcelmmb": 2,
             "nilrofUPC": 6,
             "pauj-hub": 3,
-            "non_assigned": 8
+            "non_assigned": 6
         },
         "closed": {
             "daniespejo": 2,
-            "marcelmmb": 0,
+            "marcelmmb": 2,
             "nilrofUPC": 3,
             "pauj-hub": 2
         },
@@ -101,10 +101,10 @@
             "Iteration 1": {
                 "assigned_per_member": {
                     "daniespejo": 2,
-                    "marcelmmb": 0,
+                    "marcelmmb": 2,
                     "nilrofUPC": 3,
                     "pauj-hub": 0,
-                    "non_assigned": 7
+                    "non_assigned": 5
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -132,7 +132,7 @@
                 },
                 "done_per_member": {
                     "daniespejo": 1,
-                    "marcelmmb": 0,
+                    "marcelmmb": 2,
                     "nilrofUPC": 2,
                     "pauj-hub": 0
                 },
@@ -321,10 +321,10 @@
             "total": {
                 "assigned_per_member": {
                     "daniespejo": 2,
-                    "marcelmmb": 0,
+                    "marcelmmb": 2,
                     "nilrofUPC": 3,
                     "pauj-hub": 0,
-                    "non_assigned": 7
+                    "non_assigned": 5
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -352,7 +352,7 @@
                 },
                 "done_per_member": {
                     "daniespejo": 1,
-                    "marcelmmb": 0,
+                    "marcelmmb": 2,
                     "nilrofUPC": 2,
                     "pauj-hub": 0
                 },
