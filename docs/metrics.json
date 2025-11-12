@@ -59,10 +59,10 @@
     "issues": {
         "assigned": {
             "daniespejo": 7,
-            "marcelmmb": 5,
+            "marcelmmb": 6,
             "nilrofUPC": 6,
             "pauj-hub": 2,
-            "non_assigned": 1
+            "non_assigned": 0
         },
         "closed": {
             "daniespejo": 6,
@@ -142,14 +142,14 @@
                 "in_review": 2,
                 "done": 10,
                 "total_issues": 20,
-                "total_issues_with_type": 17,
-                "total_features": 5,
+                "total_issues_with_type": 18,
+                "total_features": 6,
                 "total_tasks": 12,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 1,
+                "total_features_in_review": 2,
                 "total_features_done": 4,
                 "total": 20
             },
@@ -362,14 +362,14 @@
                 "in_review": 2,
                 "done": 10,
                 "total_issues": 20,
-                "total_issues_with_type": 17,
-                "total_features": 5,
+                "total_issues_with_type": 18,
+                "total_features": 6,
                 "total_tasks": 12,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 1,
+                "total_features_in_review": 2,
                 "total_features_done": 4,
                 "total": 20
             }
