@@ -12,8 +12,8 @@
         "marcelmmb": 0,
         "nilrofUPC": 0,
         "pauj-hub": 36,
-        "anonymous": 54,
-        "total": 93
+        "anonymous": 55,
+        "total": 94
     },
     "modified_lines": {
         "daniespejo": {
@@ -58,14 +58,14 @@
     },
     "issues": {
         "assigned": {
-            "daniespejo": 5,
+            "daniespejo": 7,
             "marcelmmb": 4,
             "nilrofUPC": 6,
             "pauj-hub": 3,
-            "non_assigned": 2
+            "non_assigned": 0
         },
         "closed": {
-            "daniespejo": 4,
+            "daniespejo": 6,
             "marcelmmb": 4,
             "nilrofUPC": 3,
             "pauj-hub": 2
@@ -100,11 +100,11 @@
         "metrics_by_iteration": {
             "Iteration 1": {
                 "assigned_per_member": {
-                    "daniespejo": 3,
+                    "daniespejo": 5,
                     "marcelmmb": 4,
                     "nilrofUPC": 3,
                     "pauj-hub": 0,
-                    "non_assigned": 2
+                    "non_assigned": 0
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -131,7 +131,7 @@
                     "pauj-hub": 0
                 },
                 "done_per_member": {
-                    "daniespejo": 2,
+                    "daniespejo": 4,
                     "marcelmmb": 4,
                     "nilrofUPC": 2,
                     "pauj-hub": 0
@@ -320,11 +320,11 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "daniespejo": 3,
+                    "daniespejo": 5,
                     "marcelmmb": 4,
                     "nilrofUPC": 3,
                     "pauj-hub": 0,
-                    "non_assigned": 2
+                    "non_assigned": 0
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -351,7 +351,7 @@
                     "pauj-hub": 0
                 },
                 "done_per_member": {
-                    "daniespejo": 2,
+                    "daniespejo": 4,
                     "marcelmmb": 4,
                     "nilrofUPC": 2,
                     "pauj-hub": 0
