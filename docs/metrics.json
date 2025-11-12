@@ -62,7 +62,7 @@
             "marcelmmb": 13,
             "nilrofUPC": 7,
             "pauj-hub": 2,
-            "non_assigned": 2
+            "non_assigned": 3
         },
         "closed": {
             "daniespejo": 8,
@@ -73,7 +73,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 25,
-        "total": 32
+        "total": 33
     },
     "project": {
         "has_iterations": true,
