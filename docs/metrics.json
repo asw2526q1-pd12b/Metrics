@@ -101,7 +101,7 @@
             "Iteration 1": {
                 "assigned_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 11,
+                    "marcelmmb": 12,
                     "nilrofUPC": 4,
                     "pauj-hub": 0,
                     "non_assigned": 0
@@ -132,7 +132,7 @@
                 },
                 "done_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 10,
+                    "marcelmmb": 11,
                     "nilrofUPC": 4,
                     "pauj-hub": 0
                 },
@@ -140,18 +140,18 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 1,
-                "done": 20,
-                "total_issues": 30,
-                "total_issues_with_type": 28,
+                "done": 21,
+                "total_issues": 31,
+                "total_issues_with_type": 29,
                 "total_features": 7,
-                "total_tasks": 21,
+                "total_tasks": 22,
                 "total_bugs": 0,
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 1,
                 "total_features_done": 5,
-                "total": 30
+                "total": 31
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -266,7 +266,7 @@
             "no_iteration": {
                 "assigned_per_member": {
                     "daniespejo": 0,
-                    "marcelmmb": 1,
+                    "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0,
                     "non_assigned": 0
@@ -297,7 +297,7 @@
                 },
                 "done_per_member": {
                     "daniespejo": 0,
-                    "marcelmmb": 1,
+                    "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0
                 },
@@ -305,18 +305,18 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 1,
-                "total_issues": 3,
-                "total_issues_with_type": 1,
+                "done": 0,
+                "total_issues": 2,
+                "total_issues_with_type": 0,
                 "total_features": 0,
-                "total_tasks": 1,
+                "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 3
+                "total": 2
             },
             "total": {
                 "assigned_per_member": {
