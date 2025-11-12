@@ -59,10 +59,10 @@
     "issues": {
         "assigned": {
             "daniespejo": 8,
-            "marcelmmb": 11,
+            "marcelmmb": 12,
             "nilrofUPC": 7,
             "pauj-hub": 2,
-            "non_assigned": 1
+            "non_assigned": 0
         },
         "closed": {
             "daniespejo": 6,
@@ -101,7 +101,7 @@
             "Iteration 1": {
                 "assigned_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 9,
+                    "marcelmmb": 10,
                     "nilrofUPC": 4,
                     "pauj-hub": 0,
                     "non_assigned": 0
@@ -141,17 +141,17 @@
                 "in_progress": 0,
                 "in_review": 2,
                 "done": 10,
-                "total_issues": 27,
-                "total_issues_with_type": 25,
+                "total_issues": 28,
+                "total_issues_with_type": 26,
                 "total_features": 6,
-                "total_tasks": 19,
+                "total_tasks": 20,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 2,
                 "total_features_done": 4,
-                "total": 27
+                "total": 28
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -306,7 +306,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 1,
+                "total_issues": 0,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
@@ -316,12 +316,12 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 1
+                "total": 0
             },
             "total": {
                 "assigned_per_member": {
                     "daniespejo": 6,
-                    "marcelmmb": 9,
+                    "marcelmmb": 10,
                     "nilrofUPC": 4,
                     "pauj-hub": 0,
                     "non_assigned": 0
@@ -362,9 +362,9 @@
                 "in_review": 2,
                 "done": 10,
                 "total_issues": 28,
-                "total_issues_with_type": 25,
+                "total_issues_with_type": 26,
                 "total_features": 6,
-                "total_tasks": 19,
+                "total_tasks": 20,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
