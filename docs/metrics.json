@@ -149,8 +149,8 @@
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 2,
-                "total_features_done": 4,
+                "total_features_in_review": 1,
+                "total_features_done": 5,
                 "total": 28
             },
             "Iteration 2": {
@@ -369,8 +369,8 @@
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 2,
-                "total_features_done": 4,
+                "total_features_in_review": 1,
+                "total_features_done": 5,
                 "total": 28
             }
         }
