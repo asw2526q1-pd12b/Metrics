@@ -8,18 +8,18 @@
         "professor-asw": "https://avatars.githubusercontent.com/u/126955320?v=4"
     },
     "commits": {
-        "daniespejo": 3,
+        "daniespejo": 6,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 46,
-        "anonymous": 60,
-        "total": 109
+        "pauj-hub": 51,
+        "anonymous": 62,
+        "total": 119
     },
     "modified_lines": {
         "daniespejo": {
-            "additions": 36,
-            "deletions": 1,
-            "modified": 37
+            "additions": 72,
+            "deletions": 2,
+            "modified": 74
         },
         "marcelmmb": {
             "additions": 0,
@@ -32,28 +32,28 @@
             "modified": 0
         },
         "pauj-hub": {
-            "additions": 168098,
-            "deletions": 2063,
-            "modified": 170161
+            "additions": 168112,
+            "deletions": 2068,
+            "modified": 170180
         },
         "total": {
-            "additions": 168134,
-            "deletions": 2064,
-            "modified": 170198
+            "additions": 168184,
+            "deletions": 2070,
+            "modified": 170254
         }
     },
     "commit_streak": {
-        "daniespejo": 0,
+        "daniespejo": 1,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 4
+        "pauj-hub": 5
     },
-    "commit_merges": 5,
+    "commit_merges": 6,
     "longest_commit_streak_per_user": {
-        "daniespejo": 0,
+        "daniespejo": 1,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 4,
+        "pauj-hub": 5,
         "professor-asw": 0
     },
     "issues": {
