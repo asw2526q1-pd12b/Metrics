@@ -10077,5 +10077,393 @@
             "closed": 0,
             "total": 1
         }
+    },
+    "2025-11-19": {
+        "commits": {
+            "daniespejo": 6,
+            "marcelmmb": 0,
+            "nilrofUPC": 0,
+            "pauj-hub": 51,
+            "anonymous": 62,
+            "total": 119
+        },
+        "modified_lines": {
+            "daniespejo": {
+                "additions": 72,
+                "deletions": 2,
+                "modified": 74
+            },
+            "marcelmmb": {
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
+            },
+            "nilrofUPC": {
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
+            },
+            "pauj-hub": {
+                "additions": 168112,
+                "deletions": 2068,
+                "modified": 170180
+            },
+            "total": {
+                "additions": 168184,
+                "deletions": 2070,
+                "modified": 170254
+            }
+        },
+        "commit_streak": {
+            "daniespejo": 1,
+            "marcelmmb": 0,
+            "nilrofUPC": 0,
+            "pauj-hub": 5
+        },
+        "commit_merges": 6,
+        "longest_commit_streak_per_user": {
+            "daniespejo": 1,
+            "marcelmmb": 0,
+            "nilrofUPC": 0,
+            "pauj-hub": 5,
+            "professor-asw": 0
+        },
+        "issues": {
+            "assigned": {
+                "daniespejo": 8,
+                "marcelmmb": 16,
+                "nilrofUPC": 7,
+                "pauj-hub": 3,
+                "non_assigned": 0
+            },
+            "closed": {
+                "daniespejo": 8,
+                "marcelmmb": 16,
+                "nilrofUPC": 6,
+                "pauj-hub": 3
+            },
+            "have_pull_request": 0,
+            "assignee_is_pr_author": 0,
+            "total_closed": 33,
+            "total": 34
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration 1": {
+                    "title": "Iteration 1",
+                    "startDate": "2025-10-17",
+                    "endDate": "2025-11-14",
+                    "duration": 29
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-11-15",
+                    "endDate": "2025-12-05",
+                    "duration": 21
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-12-06",
+                    "endDate": "2025-12-19",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration 1": {
+                    "assigned_per_member": {
+                        "daniespejo": 7,
+                        "marcelmmb": 13,
+                        "nilrofUPC": 4,
+                        "pauj-hub": 1,
+                        "non_assigned": 0
+                    },
+                    "backlog_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "ready_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_progress_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_review_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "done_per_member": {
+                        "daniespejo": 7,
+                        "marcelmmb": 13,
+                        "nilrofUPC": 4,
+                        "pauj-hub": 1
+                    },
+                    "backlog": 0,
+                    "ready": 0,
+                    "in_progress": 0,
+                    "in_review": 0,
+                    "done": 25,
+                    "total_issues": 33,
+                    "total_issues_with_type": 33,
+                    "total_features": 8,
+                    "total_tasks": 25,
+                    "total_bugs": 0,
+                    "total_features_backlog": 0,
+                    "total_features_ready": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 8,
+                    "total": 33
+                },
+                "Iteration 2": {
+                    "assigned_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0,
+                        "non_assigned": 0
+                    },
+                    "backlog_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "ready_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_progress_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_review_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "done_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "backlog": 0,
+                    "ready": 0,
+                    "in_progress": 0,
+                    "in_review": 0,
+                    "done": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total_features_backlog": 0,
+                    "total_features_ready": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0,
+                        "non_assigned": 0
+                    },
+                    "backlog_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "ready_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_progress_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_review_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "done_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "backlog": 0,
+                    "ready": 0,
+                    "in_progress": 0,
+                    "in_review": 0,
+                    "done": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total_features_backlog": 0,
+                    "total_features_ready": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0,
+                        "non_assigned": 0
+                    },
+                    "backlog_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "ready_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_progress_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_review_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "done_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "backlog": 0,
+                    "ready": 0,
+                    "in_progress": 0,
+                    "in_review": 0,
+                    "done": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total_features_backlog": 0,
+                    "total_features_ready": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total": 0
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "daniespejo": 7,
+                        "marcelmmb": 13,
+                        "nilrofUPC": 4,
+                        "pauj-hub": 1,
+                        "non_assigned": 0
+                    },
+                    "backlog_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "ready_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_progress_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "in_review_per_member": {
+                        "daniespejo": 0,
+                        "marcelmmb": 0,
+                        "nilrofUPC": 0,
+                        "pauj-hub": 0
+                    },
+                    "done_per_member": {
+                        "daniespejo": 7,
+                        "marcelmmb": 13,
+                        "nilrofUPC": 4,
+                        "pauj-hub": 1
+                    },
+                    "backlog": 0,
+                    "ready": 0,
+                    "in_progress": 0,
+                    "in_review": 0,
+                    "done": 25,
+                    "total_issues": 33,
+                    "total_issues_with_type": 33,
+                    "total_features": 8,
+                    "total_tasks": 25,
+                    "total_bugs": 0,
+                    "total_features_backlog": 0,
+                    "total_features_ready": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 8,
+                    "total": 33
+                }
+            }
+        },
+        "pull_requests": {
+            "created": {
+                "daniespejo": 0,
+                "marcelmmb": 0,
+                "nilrofUPC": 0,
+                "pauj-hub": 1
+            },
+            "merged_per_member": {
+                "daniespejo": 0,
+                "marcelmmb": 0,
+                "nilrofUPC": 0,
+                "pauj-hub": 1
+            },
+            "merged": 1,
+            "not_merged_by_author": 0,
+            "closed": 0,
+            "total": 1
+        }
     }
 }
