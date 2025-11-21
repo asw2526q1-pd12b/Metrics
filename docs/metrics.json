@@ -301,7 +301,7 @@
                     "nilrofUPC": 0,
                     "pauj-hub": 0
                 },
-                "backlog": 0,
+                "backlog": 1,
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
@@ -356,7 +356,7 @@
                     "nilrofUPC": 4,
                     "pauj-hub": 1
                 },
-                "backlog": 0,
+                "backlog": 1,
                 "ready": 0,
                 "in_progress": 2,
                 "in_review": 3,
