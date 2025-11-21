@@ -68,11 +68,11 @@
             "daniespejo": 8,
             "marcelmmb": 16,
             "nilrofUPC": 6,
-            "pauj-hub": 3
+            "pauj-hub": 4
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 33,
+        "total_closed": 34,
         "total": 54
     },
     "project": {
@@ -122,7 +122,7 @@
                     "daniespejo": 1,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
-                    "pauj-hub": 2
+                    "pauj-hub": 1
                 },
                 "in_review_per_member": {
                     "daniespejo": 2,
@@ -134,13 +134,13 @@
                     "daniespejo": 0,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
-                    "pauj-hub": 0
+                    "pauj-hub": 1
                 },
                 "backlog": 4,
                 "ready": 5,
-                "in_progress": 3,
+                "in_progress": 2,
                 "in_review": 3,
-                "done": 0,
+                "done": 1,
                 "total_issues": 20,
                 "total_issues_with_type": 20,
                 "total_features": 5,
@@ -342,7 +342,7 @@
                     "daniespejo": 1,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
-                    "pauj-hub": 2
+                    "pauj-hub": 1
                 },
                 "in_review_per_member": {
                     "daniespejo": 2,
@@ -354,13 +354,13 @@
                     "daniespejo": 7,
                     "marcelmmb": 13,
                     "nilrofUPC": 4,
-                    "pauj-hub": 1
+                    "pauj-hub": 2
                 },
                 "backlog": 4,
                 "ready": 5,
-                "in_progress": 3,
+                "in_progress": 2,
                 "in_review": 3,
-                "done": 25,
+                "done": 26,
                 "total_issues": 53,
                 "total_issues_with_type": 53,
                 "total_features": 13,
