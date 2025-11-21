@@ -60,9 +60,9 @@
         "assigned": {
             "daniespejo": 11,
             "marcelmmb": 20,
-            "nilrofUPC": 8,
+            "nilrofUPC": 10,
             "pauj-hub": 5,
-            "non_assigned": 10
+            "non_assigned": 8
         },
         "closed": {
             "daniespejo": 8,
@@ -102,14 +102,14 @@
                 "assigned_per_member": {
                     "daniespejo": 3,
                     "marcelmmb": 4,
-                    "nilrofUPC": 1,
+                    "nilrofUPC": 2,
                     "pauj-hub": 2,
-                    "non_assigned": 5
+                    "non_assigned": 4
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
                     "marcelmmb": 4,
-                    "nilrofUPC": 1,
+                    "nilrofUPC": 2,
                     "pauj-hub": 0
                 },
                 "ready_per_member": {
@@ -322,14 +322,14 @@
                 "assigned_per_member": {
                     "daniespejo": 10,
                     "marcelmmb": 17,
-                    "nilrofUPC": 5,
+                    "nilrofUPC": 6,
                     "pauj-hub": 3,
-                    "non_assigned": 5
+                    "non_assigned": 4
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
                     "marcelmmb": 4,
-                    "nilrofUPC": 1,
+                    "nilrofUPC": 2,
                     "pauj-hub": 0
                 },
                 "ready_per_member": {
