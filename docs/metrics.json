@@ -103,14 +103,14 @@
                     "daniespejo": 3,
                     "marcelmmb": 4,
                     "nilrofUPC": 3,
-                    "pauj-hub": 2,
-                    "non_assigned": 3
+                    "pauj-hub": 3,
+                    "non_assigned": 2
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
                     "marcelmmb": 4,
                     "nilrofUPC": 3,
-                    "pauj-hub": 0
+                    "pauj-hub": 1
                 },
                 "ready_per_member": {
                     "daniespejo": 0,
@@ -323,14 +323,14 @@
                     "daniespejo": 10,
                     "marcelmmb": 17,
                     "nilrofUPC": 7,
-                    "pauj-hub": 3,
-                    "non_assigned": 3
+                    "pauj-hub": 4,
+                    "non_assigned": 2
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
                     "marcelmmb": 4,
                     "nilrofUPC": 3,
-                    "pauj-hub": 0
+                    "pauj-hub": 1
                 },
                 "ready_per_member": {
                     "daniespejo": 0,
