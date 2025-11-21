@@ -11,9 +11,9 @@
         "daniespejo": 6,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 52,
+        "pauj-hub": 53,
         "anonymous": 62,
-        "total": 120
+        "total": 121
     },
     "modified_lines": {
         "daniespejo": {
@@ -32,21 +32,21 @@
             "modified": 0
         },
         "pauj-hub": {
-            "additions": 182990,
-            "deletions": 2125,
-            "modified": 185115
+            "additions": 185499,
+            "deletions": 2137,
+            "modified": 187636
         },
         "total": {
-            "additions": 183062,
-            "deletions": 2127,
-            "modified": 185189
+            "additions": 185571,
+            "deletions": 2139,
+            "modified": 187710
         }
     },
     "commit_streak": {
         "daniespejo": 0,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 1
+        "pauj-hub": 2
     },
     "commit_merges": 6,
     "longest_commit_streak_per_user": {
@@ -104,7 +104,7 @@
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 1,
-                    "non_assigned": 11
+                    "non_assigned": 14
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -136,22 +136,22 @@
                     "nilrofUPC": 0,
                     "pauj-hub": 0
                 },
-                "backlog": 7,
+                "backlog": 10,
                 "ready": 0,
                 "in_progress": 2,
                 "in_review": 3,
                 "done": 0,
-                "total_issues": 17,
-                "total_issues_with_type": 17,
+                "total_issues": 20,
+                "total_issues_with_type": 20,
                 "total_features": 5,
-                "total_tasks": 12,
+                "total_tasks": 15,
                 "total_bugs": 0,
                 "total_features_backlog": 5,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 17
+                "total": 20
             },
             "Iteration 3": {
                 "assigned_per_member": {
@@ -269,7 +269,7 @@
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0,
-                    "non_assigned": 1
+                    "non_assigned": 0
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -301,22 +301,22 @@
                     "nilrofUPC": 0,
                     "pauj-hub": 0
                 },
-                "backlog": 1,
+                "backlog": 0,
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 3,
-                "total_issues_with_type": 1,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
                 "total_features": 0,
-                "total_tasks": 1,
+                "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 3
+                "total": 0
             },
             "total": {
                 "assigned_per_member": {
@@ -324,7 +324,7 @@
                     "marcelmmb": 13,
                     "nilrofUPC": 4,
                     "pauj-hub": 2,
-                    "non_assigned": 12
+                    "non_assigned": 14
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -356,15 +356,15 @@
                     "nilrofUPC": 4,
                     "pauj-hub": 1
                 },
-                "backlog": 8,
+                "backlog": 10,
                 "ready": 0,
                 "in_progress": 2,
                 "in_review": 3,
                 "done": 25,
                 "total_issues": 53,
-                "total_issues_with_type": 51,
+                "total_issues_with_type": 53,
                 "total_features": 13,
-                "total_tasks": 38,
+                "total_tasks": 40,
                 "total_bugs": 0,
                 "total_features_backlog": 5,
                 "total_features_ready": 0,
