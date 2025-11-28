@@ -12,8 +12,8 @@
         "marcelmmb": 0,
         "nilrofUPC": 0,
         "pauj-hub": 54,
-        "anonymous": 62,
-        "total": 122
+        "anonymous": 63,
+        "total": 123
     },
     "modified_lines": {
         "daniespejo": {
@@ -46,7 +46,7 @@
         "daniespejo": 0,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 1
+        "pauj-hub": 0
     },
     "commit_merges": 6,
     "longest_commit_streak_per_user": {
