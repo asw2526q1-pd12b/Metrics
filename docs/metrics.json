@@ -46,7 +46,7 @@
         "daniespejo": 0,
         "marcelmmb": 0,
         "nilrofUPC": 0,
-        "pauj-hub": 3
+        "pauj-hub": 0
     },
     "commit_merges": 7,
     "longest_commit_streak_per_user": {
@@ -59,9 +59,9 @@
     "issues": {
         "assigned": {
             "daniespejo": 11,
-            "marcelmmb": 19,
-            "nilrofUPC": 10,
-            "pauj-hub": 9,
+            "marcelmmb": 18,
+            "nilrofUPC": 9,
+            "pauj-hub": 11,
             "non_assigned": 5
         },
         "closed": {
@@ -102,15 +102,15 @@
                 "assigned_per_member": {
                     "daniespejo": 3,
                     "marcelmmb": 3,
-                    "nilrofUPC": 3,
-                    "pauj-hub": 6,
+                    "nilrofUPC": 2,
+                    "pauj-hub": 7,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
                     "marcelmmb": 0,
-                    "nilrofUPC": 1,
-                    "pauj-hub": 1
+                    "nilrofUPC": 0,
+                    "pauj-hub": 2
                 },
                 "ready_per_member": {
                     "daniespejo": 0,
@@ -322,15 +322,15 @@
                 "assigned_per_member": {
                     "daniespejo": 10,
                     "marcelmmb": 16,
-                    "nilrofUPC": 7,
-                    "pauj-hub": 7,
+                    "nilrofUPC": 6,
+                    "pauj-hub": 8,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
                     "marcelmmb": 0,
-                    "nilrofUPC": 1,
-                    "pauj-hub": 1
+                    "nilrofUPC": 0,
+                    "pauj-hub": 2
                 },
                 "ready_per_member": {
                     "daniespejo": 0,
