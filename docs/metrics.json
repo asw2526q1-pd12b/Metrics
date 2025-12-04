@@ -68,11 +68,11 @@
             "daniespejo": 10,
             "marcelmmb": 18,
             "nilrofUPC": 8,
-            "pauj-hub": 9
+            "pauj-hub": 10
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 47,
+        "total_closed": 51,
         "total": 54
     },
     "project": {
@@ -147,10 +147,10 @@
                 "total_tasks": 15,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_ready": 3,
+                "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 2,
+                "total_features_done": 5,
                 "total": 20
             },
             "Iteration 3": {
@@ -367,10 +367,10 @@
                 "total_tasks": 40,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_ready": 3,
+                "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 10,
+                "total_features_done": 13,
                 "total": 53
             }
         }
