@@ -101,9 +101,9 @@
             "Iteration 2": {
                 "assigned_per_member": {
                     "daniespejo": 3,
-                    "marcelmmb": 3,
+                    "marcelmmb": 2,
                     "nilrofUPC": 2,
-                    "pauj-hub": 7,
+                    "pauj-hub": 8,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
@@ -114,9 +114,9 @@
                 },
                 "ready_per_member": {
                     "daniespejo": 0,
-                    "marcelmmb": 1,
+                    "marcelmmb": 0,
                     "nilrofUPC": 2,
-                    "pauj-hub": 2
+                    "pauj-hub": 3
                 },
                 "in_progress_per_member": {
                     "daniespejo": 1,
@@ -321,9 +321,9 @@
             "total": {
                 "assigned_per_member": {
                     "daniespejo": 10,
-                    "marcelmmb": 16,
+                    "marcelmmb": 15,
                     "nilrofUPC": 6,
-                    "pauj-hub": 8,
+                    "pauj-hub": 9,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
@@ -334,9 +334,9 @@
                 },
                 "ready_per_member": {
                     "daniespejo": 0,
-                    "marcelmmb": 1,
+                    "marcelmmb": 0,
                     "nilrofUPC": 2,
-                    "pauj-hub": 2
+                    "pauj-hub": 3
                 },
                 "in_progress_per_member": {
                     "daniespejo": 1,
