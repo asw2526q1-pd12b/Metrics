@@ -290,7 +290,7 @@
                     "pauj-hub": 0
                 },
                 "in_review_per_member": {
-                    "daniespejo": 0,
+                    "daniespejo": 1,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0
@@ -304,7 +304,7 @@
                 "backlog": 0,
                 "ready": 0,
                 "in_progress": 0,
-                "in_review": 0,
+                "in_review": 1,
                 "done": 0,
                 "total_issues": 4,
                 "total_issues_with_type": 1,
@@ -345,7 +345,7 @@
                     "pauj-hub": 0
                 },
                 "in_review_per_member": {
-                    "daniespejo": 0,
+                    "daniespejo": 1,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0
@@ -359,7 +359,7 @@
                 "backlog": 0,
                 "ready": 0,
                 "in_progress": 0,
-                "in_review": 0,
+                "in_review": 1,
                 "done": 40,
                 "total_issues": 58,
                 "total_issues_with_type": 55,
