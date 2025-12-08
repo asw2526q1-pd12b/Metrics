@@ -62,7 +62,7 @@
             "marcelmmb": 19,
             "nilrofUPC": 9,
             "pauj-hub": 12,
-            "non_assigned": 6
+            "non_assigned": 7
         },
         "closed": {
             "daniespejo": 10,
@@ -73,7 +73,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 53,
-        "total": 59
+        "total": 60
     },
     "project": {
         "has_iterations": true,
@@ -141,7 +141,7 @@
                 "in_progress": 1,
                 "in_review": 4,
                 "done": 0,
-                "total_issues": 5,
+                "total_issues": 6,
                 "total_issues_with_type": 5,
                 "total_features": 0,
                 "total_tasks": 5,
@@ -151,7 +151,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 5
+                "total": 6
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -361,7 +361,7 @@
                 "in_progress": 1,
                 "in_review": 4,
                 "done": 40,
-                "total_issues": 58,
+                "total_issues": 59,
                 "total_issues_with_type": 58,
                 "total_features": 13,
                 "total_tasks": 45,
@@ -371,7 +371,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 13,
-                "total": 58
+                "total": 59
             }
         }
     },
