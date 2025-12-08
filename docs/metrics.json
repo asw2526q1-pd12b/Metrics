@@ -100,11 +100,11 @@
         "metrics_by_iteration": {
             "Iteration 3": {
                 "assigned_per_member": {
-                    "daniespejo": 3,
+                    "daniespejo": 2,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0,
-                    "non_assigned": 0
+                    "non_assigned": 1
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -125,7 +125,7 @@
                     "pauj-hub": 0
                 },
                 "in_review_per_member": {
-                    "daniespejo": 3,
+                    "daniespejo": 2,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0
@@ -320,11 +320,11 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "daniespejo": 12,
+                    "daniespejo": 11,
                     "marcelmmb": 15,
                     "nilrofUPC": 6,
                     "pauj-hub": 10,
-                    "non_assigned": 0
+                    "non_assigned": 1
                 },
                 "backlog_per_member": {
                     "daniespejo": 0,
@@ -345,7 +345,7 @@
                     "pauj-hub": 0
                 },
                 "in_review_per_member": {
-                    "daniespejo": 3,
+                    "daniespejo": 2,
                     "marcelmmb": 0,
                     "nilrofUPC": 0,
                     "pauj-hub": 0
