@@ -62,7 +62,7 @@
             "marcelmmb": 18,
             "nilrofUPC": 9,
             "pauj-hub": 12,
-            "non_assigned": 6
+            "non_assigned": 8
         },
         "closed": {
             "daniespejo": 10,
@@ -73,7 +73,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 53,
-        "total": 55
+        "total": 57
     },
     "project": {
         "has_iterations": true,
@@ -141,17 +141,17 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 0,
-                "total_issues_with_type": 0,
-                "total_features": 0,
+                "total_issues": 1,
+                "total_issues_with_type": 1,
+                "total_features": 1,
                 "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
-                "total_features_in_progress": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 0
+                "total": 1
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -306,7 +306,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 1,
+                "total_issues": 2,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
@@ -316,7 +316,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 1
+                "total": 2
             },
             "total": {
                 "assigned_per_member": {
@@ -361,17 +361,17 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 40,
-                "total_issues": 54,
-                "total_issues_with_type": 53,
-                "total_features": 13,
+                "total_issues": 56,
+                "total_issues_with_type": 54,
+                "total_features": 14,
                 "total_tasks": 40,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
-                "total_features_in_progress": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 13,
-                "total": 54
+                "total": 56
             }
         }
     },
