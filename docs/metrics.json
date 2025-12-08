@@ -12,8 +12,8 @@
         "marcelmmb": 0,
         "nilrofUPC": 0,
         "pauj-hub": 59,
-        "anonymous": 81,
-        "total": 146
+        "anonymous": 82,
+        "total": 147
     },
     "modified_lines": {
         "daniespejo": {
@@ -147,8 +147,8 @@
                 "total_tasks": 13,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_ready": 0,
-                "total_features_in_progress": 1,
+                "total_features_ready": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
                 "total": 15
@@ -367,8 +367,8 @@
                 "total_tasks": 53,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_ready": 0,
-                "total_features_in_progress": 1,
+                "total_features_ready": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 13,
                 "total": 68
