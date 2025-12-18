@@ -72,7 +72,7 @@
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 66,
+        "total_closed": 68,
         "total": 69
     },
     "project": {
@@ -147,10 +147,10 @@
                 "total_tasks": 13,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_ready": 1,
+                "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 0,
+                "total_features_done": 1,
                 "total": 15
             },
             "Iteration 2": {
@@ -367,10 +367,10 @@
                 "total_tasks": 53,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
-                "total_features_ready": 1,
+                "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 13,
+                "total_features_done": 14,
                 "total": 68
             }
         }
